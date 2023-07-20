@@ -1,6 +1,24 @@
 # Portfolio
 # Author: Felipe Andrés Álvarez Avaria (alu0100969535@ull.edu.es)
 
+## EarthVR - Oculus Quest 2 Solar System tool
+
+This project is a Unity Project that uses Oculus Integration SDK to create an simple game to be able to learn some Solar System concepts.
+
+The main giveaway is that using the InteractionSDK the user or player can control everything with their hands, without using any controllers.
+
+The project can be found in github in the following link: https://github.com/alu0100969535/OculusSolarSystem
+
+### Screenshots and gifs
+
+![](OculusSolarSystem/pokeInteraction.PNG)
+![](OculusSolarSystem/quizmode.PNG)
+![](OculusSolarSystem/sandbox.PNG)
+
+![](OculusSolarSystem/execution.gif)
+
+### 
+
 ## Goal-Oriented Action Planning
 
 This project is a simple Unity Project using the GOAP AI technic to control character behavior.
